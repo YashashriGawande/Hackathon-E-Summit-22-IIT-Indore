@@ -15,4 +15,5 @@
 
 ## About
 
-SandBox India is a platform where successful entrepreneurs and investors help fledging entrepreneurs to accelerate their dreams.
+SandBox India is a platform where successful entrepreneurs and investors help fledging entrepreneurs to accelerate their dreams.The intention is to build a strong ecosystem that is conductive for the growth of startup businesses, to drive sustainable economic growth and generate large scale employment opportunities. 
+          
