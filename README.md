@@ -1,10 +1,10 @@
 # Hackathon-E-Summit-22-IIT-Indore
 
-# ✨ SandBox Website  ✨
+# ✨ SandBox India Website  ✨
 
 **Link to Repository** - 
 
-**Working Project Link** - https://yashashrigawande.github.io/OceanofBooks/
+**Working Project Link** - 
 
 ## Tech Stack Used 💻
 
